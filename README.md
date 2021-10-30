@@ -1,5 +1,5 @@
 - 👋  Hi, I’m @saraah-jacobs
-- 👀  I’m interested in all sorts of things, mainly front-end dev or other more 'visual' technologies. 
+- 👀  I’m interested in all sorts of things, mainly front-end dev or other more 'visual' technologies. also interested in digital content like video-editing, music and digital art.
 - 🌱  I’m currently learning more about React - just dipping my toes in at the moment. Also busy learning Korean 😊
 
 <!---
